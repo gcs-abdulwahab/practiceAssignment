@@ -8,3 +8,5 @@ print("Area of a rectangle = ", A)
 
 P = 2*l+w
 print("Perimeter of a rectangle = ", P)
+
+#all the variables should be as per  convention
