@@ -6,3 +6,6 @@ A = int((s*s-a*s-b*s-c)**1/2)
 #area = A**(1/2)
 
 print("area of any triangle using Heron's Formula = ", A)
+
+
+# make function
